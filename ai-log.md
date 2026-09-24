@@ -107,7 +107,7 @@ This log was drafted by Codex from the actual conversation at my request. Relate
 
 ## Reflection
 
-Codex offered example wording for the five reflection questions. I wrote the final responses below.
+Codex offered example wording for the five reflection questions. I wrote the final responses below in my own words.
 
 ### 1\. Which GitHub action or object was most useful to you, and why?
 

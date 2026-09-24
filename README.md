@@ -10,7 +10,7 @@ This repository contains Markdown documentation for GitHub workflow practice and
 ## Documentation
 
 - [Workflow notes](workflow-notes.md): GitHub concepts, workflow explanations, and evidence links.
-- AI-use log (`ai-log.md`, coming soon): AI prompts, useful suggestions, decisions, and reflections.
+- [AI-use log](ai-log.md): AI prompts, useful suggestions, decisions, and reflections.
 
  ## Planned Workflow
  1. Define the work and acceptance criteria in a GitHub issue.

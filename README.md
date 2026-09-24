@@ -7,12 +7,10 @@ Andrew Haralambous
 ## Scope
 This repository contains Markdown documentation for GitHub workflow practice and responsible AI use.
 
- ## Documentation
- - README.md: Repository purpose, scope, and student identification.
- - workflow-notes.md: Workflow explanations and links to GitHub
- evidence.
- - ai-log.md: AI prompts, useful suggestions, decisions, and
- reflections.
+## Documentation
+
+- [Workflow notes](workflow-notes.md): GitHub concepts, workflow explanations, and evidence links.
+- AI-use log (`ai-log.md`, coming soon): AI prompts, useful suggestions, decisions, and reflections.
 
  ## Planned Workflow
  1. Define the work and acceptance criteria in a GitHub issue.

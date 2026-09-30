@@ -6,6 +6,9 @@
 - **Purpose:** Formulate acceptance criteria for the GitHub Issue.
 - **Prompt or summary:** "I want to write 5 acceptance criteria down..."
 - **Useful suggestion:** Proposed criteria covering workflow notes, ai-log, and PR process.
+- **Accepted:** The issue acceptance-criteria suggestions.
+- **Changed:** No change to this suggestion is recorded here.
+- **Rejected:** No rejected suggestion is recorded here.
 - **Decision:** Accepted
 - **Reason:** Aligned perfectly with lab criteria.
 - **Related GitHub URL:** https://github.com/aharalam/swe325_525-github-ai-practice/issues/1
@@ -16,6 +19,9 @@
 - **Purpose:** Generate content for workflow-notes.md explaining core Git/GitHub concepts.
 - **Prompt or summary:** "Give me the Command Prompt commands to create workflow-notes.md..."
 - **Useful suggestion:** Provided a structured breakdown of Issues, Branches, Commits, PRs, and Default branch.
+- **Accepted:** The concept breakdown used in workflow-notes.md.
+- **Changed:** No change to this suggestion is recorded here.
+- **Rejected:** No rejected suggestion is recorded here.
 - **Decision:** Accepted
 - **Reason:** Covered all necessary definitions concisely.
 - **Related GitHub URL:** https://github.com/aharalam/swe325_525-github-ai-practice/blob/feature/github-ai-workflow/workflow-notes.md
@@ -26,6 +32,9 @@
 - **Purpose:** Help resolve Git command-line pathing and safe directory issues on Windows.
 - **Prompt or summary:** Command error regarding safe.directory quotes on Windows.
 - **Useful suggestion:** Replaced single quotes with double quotes or global wildcard override.
+- **Accepted:** Windows-compatible quoting guidance.
+- **Changed:** The initial path commands were revised, as described in reflection question 3.
+- **Rejected:** No rejected suggestion is recorded here.
 - **Decision:** Accepted
 - **Reason:** Resolved local Git terminal execution block immediately.
 - **Related GitHub URL:** https://github.com/aharalam/swe325_525-github-ai-practice
